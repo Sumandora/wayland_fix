@@ -20,6 +20,7 @@ You need the following packages:
 $ git clone https://github.com/Sumandora/wayland_fix
 $ cd wayland_fix
 $ mkdir build
+$ cd build
 $ cmake ..
 $ make -j
 ```
