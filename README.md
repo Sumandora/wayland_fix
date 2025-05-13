@@ -1,3 +1,9 @@
+# Deprecation
+
+Since the [May 13th update](https://store.steampowered.com/news/app/730/view/529846144626329750) this fix has been implemented in the game.
+
+Original README follows:
+
 # wayland_fix
 
 Fix for mouse grabbing and text input events in Counter Strike 2.
